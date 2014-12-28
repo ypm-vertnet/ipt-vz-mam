@@ -1,0 +1,103 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 126
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-21 ; Times: 3
+	Date: 2014-11-23 ; Times: 2
+	Date: 2014-11-24 ; Times: 4
+	Date: 2014-11-25 ; Times: 3
+	Date: 2014-11-26 ; Times: 2
+	Date: 2014-11-27 ; Times: 1
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-29 ; Times: 2
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dactylomys" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "mesocapromys" ; Times: 1
+	Query: "Blue whale" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 1
+	Query: "viverra" ; Times: 1
+	Query: "ovis stateprovince:"Kermanshah" country:"iran"" ; Times: 1
+	Query: "hawk mountain" ; Times: 2
+	Query: "snow leopard" ; Times: 1
+	Query: "country:"Iran" genus:Apodemus" ; Times: 1
+	Query: "sciurus niger stateprovince:"texas" mappable:1" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "ovis country:"iran"" ; Times: 1
+	Query: "suricata" ; Times: 3
+	Query: "Makalata" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 178 download events in this period)
+Total number of records downloaded: 238 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 199
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-22 ; Times: 3
+	Date: 2014-11-24 ; Times: 6
+	Date: 2014-11-25 ; Times: 5
+	Date: 2014-11-26 ; Times: 4
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen county:"McKinley" stateprovince:"New Mexico" class:Mammalia" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "Proechimys" ; Times: 1
+	Query: "Dasypus novemcinctus type:specimen mappable:1" ; Times: 1
+	Query: "cricetomys" ; Times: 2
+	Query: "Neacomys" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" class:Mammalia year >= 1700 year <= 2014" ; Times: 1
+	Query: "type:specimen county:"Riverside" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:tridecemlineatus" ; Times: 2
+	Query: "Microcebus murinus" ; Times: 1
+	Query: "country:"Iran" genus:Apodemus" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Sciurus carolinensis type:specimen mappable:1 tissue:1" ; Times: 2
+	Query: "Dasypus novemcinctus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "ictidomys tridecemlineatus new mexico" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 19
+Total number of records retrieved from searches: 126
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 238
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 19
+Total number of records retrieved from searches: 126
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 238
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
