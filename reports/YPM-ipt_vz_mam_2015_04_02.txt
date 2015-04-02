@@ -1,0 +1,198 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 587
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Costa Rica ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Finland ; Times: 3
+	Country: France ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Portugal ; Times: 2
+	Country: Russia ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 6
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-09 ; Times: 5
+	Date: 2015-03-10 ; Times: 5
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 6
+	Date: 2015-03-13 ; Times: 4
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-17 ; Times: 4
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 6
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 10
+	Date: 2015-03-29 ; Times: 1
+	Date: 2015-03-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Spermophilus major" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "hyaena" ; Times: 1
+	Query: "mus triton kenya" ; Times: 1
+	Query: "genus:Natalus year >= 2000" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "CALUROMYS LANATUS" ; Times: 4
+	Query: "Vombatus ursinus (skeleton)" ; Times: 1
+	Query: "spermophilus major" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "Buru" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "YPM VZ YPM MAM 004476" ; Times: 1
+	Query: "YPM VZ YPM MAM 004471" ; Times: 1
+	Query: "YPM VZ YPM MAM 004470" ; Times: 1
+	Query: "YPM VZ YPM MAM 004473" ; Times: 1
+	Query: "YPM VZ YPM MAM 004472" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Rhinoceros africanus" ; Times: 5
+	Query: "chiroptera equatorial guinea" ; Times: 1
+	Query: "minous" ; Times: 3
+	Query: "genus:Chlamyphorus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 3
+	Query: "sphiggurus" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Connecticut"" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Spermophilus major specificepithet:major" ; Times: 1
+	Query: "rhinoceros sondaicus" ; Times: 2
+	Query: "genus:proteles" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: ""Pan troglodytes troglodytes" year <= 1960" ; Times: 1
+	Query: "elephant skull adult type:specimen" ; Times: 1
+	Query: "CALUROMYS philander" ; Times: 5
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "naxos" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "10-7-1853" ; Times: 1
+	Query: "country:"usa" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "specificepithet:hindei genus:Aethomys" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "orangutan" ; Times: 3
+	Query: "Odocoileus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "YPM VZ YPM MAM 001390" ; Times: 1
+	Query: "catalognumber:000250" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 298 download events in this period)
+Total number of records downloaded: 1444 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1336
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 5
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 8
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "sciurus carolinensis type:specimen year <= 2015 tissue:1" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "chiroptera equatorial guinea" ; Times: 1
+	Query: "chiroptera madagascar" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"New York"" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Plecotus townsendii pallescens" ; Times: 1
+	Query: "chiroptera Guinea africa" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Sciurus (black OR melan*) tissue:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Cetacea" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "chiroptera zambia" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "genus:Sciurus (black OR melan* OR dark) tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 349
+Total number of records retrieved from searches: 1997
+Number of download events that retrieved data from the resource: 215
+Total number of records downloaded: 9342
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 659
+Total number of records retrieved from searches: 2937
+Number of download events that retrieved data from the resource: 274
+Total number of records downloaded: 10885
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
