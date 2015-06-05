@@ -1,0 +1,276 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Micronesia ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 89
+	Country: Unknown ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 3
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 5
+	Date: 2015-05-08 ; Times: 5
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-13 ; Times: 22
+	Date: 2015-05-14 ; Times: 7
+	Date: 2015-05-15 ; Times: 14
+	Date: 2015-05-16 ; Times: 6
+	Date: 2015-05-17 ; Times: 3
+	Date: 2015-05-18 ; Times: 11
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 11
+	Date: 2015-05-21 ; Times: 26
+	Date: 2015-05-23 ; Times: 4
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 2
+	Date: 2015-05-27 ; Times: 12
+	Date: 2015-05-28 ; Times: 7
+	Date: 2015-05-29 ; Times: 10
+	Date: 2015-05-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "specificepithet:mackilligini genus:Dipodillus" ; Times: 7
+	Query: "genus:Catopuma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "ailurus (skull)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"Alberta" genus:Microtus" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 2
+	Query: "specificepithet:hyaena genus:hyaena" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Bison bison genus:Bison (Mandible jaw)" ; Times: 1
+	Query: "Chrysochloris" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus tissue:1" ; Times: 1
+	Query: "genus:catopuma (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan)" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 4
+	Query: "panthera onca" ; Times: 1
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "Phacochoerus aethiopicus aethiopicus" ; Times: 1
+	Query: "specificepithet:palliatus genus:Paraxerus" ; Times: 2
+	Query: "new york odocoileus virginianus AND (NOT sound NOT film)" ; Times: 3
+	Query: "microtus pennsylvanicus stateprovince:"alberta" genus:microtus" ; Times: 8
+	Query: "specificepithet:lemniscatus genus:Funisciurus" ; Times: 19
+	Query: "Rhynchocyon cirnei" ; Times: 3
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "genus:Panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Pseudoryx nghetinhensis" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "Glossophaga leachii stateprovince:"Veracruz" country:"Mexico" mappable:1" ; Times: 1
+	Query: "specificepithet:leptonyx genus:Hydrurga (skull)" ; Times: 1
+	Query: "genus:Pan paniscus" ; Times: 3
+	Query: "aardvark" ; Times: 1
+	Query: "Heller 1911" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin)" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: ""skin" specificepithet:mackilligini genus:Dipodillus" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 4
+	Query: "genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Spotted skunk" ; Times: 5
+	Query: "specificepithet:pardus genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Hemicentetes" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 2
+	Query: "spotted skunk" ; Times: 1
+	Query: "ursus arctos stateprovince:"british columbia"" ; Times: 3
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Spotted Skunk" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "rhynchocyon cirnei" ; Times: 2
+	Query: "crocuta" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 4
+	Query: "genus:chlamyphorus" ; Times: 2
+	Query: "Galictis cuja country:"Chile" mappable:1" ; Times: 2
+	Query: "specificepithet:poensis genus:Paraxerus" ; Times: 2
+	Query: "pan paniscus" ; Times: 2
+	Query: "Alouatta seniculus venezuela" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 3
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "skin specificepithet:mackilligini genus:Dipodillus" ; Times: 2
+	Query: "10270" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "Notoryctemorphia" ; Times: 1
+	Query: "Rancho de Bavia institutioncode:YPM" ; Times: 1
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "nyctimene media:1" ; Times: 3
+	Query: "genus:panthera (juvenile)" ; Times: 2
+	Query: "lycaon pictus (skull zoo)" ; Times: 1
+	Query: "Galictis cuja country:"chile" mappable:1" ; Times: 1
+	Query: "nyctalus" ; Times: 1
+	Query: "Balantiopteryx io stateprovince:"Veracruz" country:"Mexico" mappable:1" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "orycteropus" ; Times: 2
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 2
+	Query: "rattus pyctoris" ; Times: 2
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington NOT Iowa)" ; Times: 1
+	Query: "lagothrix lagotricha mappable:1" ; Times: 2
+	Query: "myrmecophaga" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "Neofelis" ; Times: 1
+	Query: "specificepithet:spalacinus genus:Tachyoryctes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 976 download events in this period)
+Total number of records downloaded: 4165 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2810
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 11
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 8
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-13 ; Times: 6
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 10
+	Date: 2015-05-22 ; Times: 8
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 4
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "Peromyscus gratus" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "type:specimen specificepithet:brevicauda genus:blarina tissue:1" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Rhynchocyon cirnei" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Pygoderma year <= 2015" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Abrocomidae" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 1
+	Query: "Cuniculidae" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "nyctimene" ; Times: 3
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington NOT Iowa)" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Galictis cuja country:"chile" mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Galictis cuja country:"Chile" mappable:1" ; Times: 2
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Alouatta seniculus venezuela" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus tissue:1" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "stateprovince:"michoacan" country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "paranyctimene" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 527
+Total number of records retrieved from searches: 2616
+Number of download events that retrieved data from the resource: 291
+Total number of records downloaded: 13507
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 837
+Total number of records retrieved from searches: 3556
+Number of download events that retrieved data from the resource: 350
+Total number of records downloaded: 15050
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
