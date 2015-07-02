@@ -1,0 +1,235 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 331
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Peru ; Times: 13
+	Country: Spain ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 80
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 8
+	Date: 2015-06-02 ; Times: 18
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-05 ; Times: 6
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 13
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 7
+	Date: 2015-06-15 ; Times: 9
+	Date: 2015-06-17 ; Times: 18
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-21 ; Times: 3
+	Date: 2015-06-23 ; Times: 4
+	Date: 2015-06-24 ; Times: 4
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-29 ; Times: 10
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "macaque" ; Times: 1
+	Query: "Eptesicus fuscus country:"USA"" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 3
+	Query: "distance(location,geopoint(35.125659572523496,24.85107421875))<71551" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "ouray colorado" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 3
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "specificepithet:yucatanensis genus:Sciurus" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "distance(location,geopoint(35.051044669473086,24.873046875))<100000" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 6
+	Query: "specificepithet:schnablii genus:Amorphochilus" ; Times: 3
+	Query: "class:Mammalia Macaca sylvanus" ; Times: 1
+	Query: "kos greece" ; Times: 1
+	Query: "Myotis lucifugus country:"USA"" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:putorius genus:Spilogale" ; Times: 2
+	Query: "canis lupus type:specimen (skull mandible) AND (NOT USA NOT united )" ; Times: 1
+	Query: "Myotis keenii country:"USA"" ; Times: 1
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Funisciurus bayonii" ; Times: 1
+	Query: ""ursus arctos" stateprovince:"montana"" ; Times: 3
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "canis lupus type:specimen (skull mandible)" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"USA"" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "Lophocebus aterrimus mappable:1" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "distance(location,geopoint(55.99019044209386,160.224609375))<100000" ; Times: 1
+	Query: ""mustela nigripes"" ; Times: 1
+	Query: "muntiacus reevesi" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 5
+	Query: "Myotis thysanodes country:"USA"" ; Times: 1
+	Query: "Whale skeleton" ; Times: 3
+	Query: "Canis aureus" ; Times: 9
+	Query: "ring-tailed lemur" ; Times: 3
+	Query: "mellivora capensis" ; Times: 1
+	Query: "genus:Catopuma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 3
+	Query: "chrysochloris" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "puma concolor country:"MEXICO" year <= 2015" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Ateles chamek" ; Times: 7
+	Query: "kos" ; Times: 2
+	Query: "class:Mammalia Lophocebus aterrimus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "lateralis teton" ; Times: 1
+	Query: "Heliosciurus punctatus" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "Oreailurus jacobita" ; Times: 1
+	Query: ""e of uruapan"" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "ursus stateprovince:"montana"" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(35.125659572523496,24.85107421875))<71551" ; Times: 1
+	Query: "Xerospermophilus mohavensis county:"San Bernardino County" stateprovince:"California"" ; Times: 1
+	Query: "Heliosciurus undulatus" ; Times: 1
+	Query: "Myotis lucifugus country:"Mexico"" ; Times: 1
+	Query: "huemul" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 3
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "pampas cat" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:uncia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1524 download events in this period)
+Total number of records downloaded: 1001 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 963
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 6
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-06 ; Times: 4
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-09 ; Times: 15
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 6
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ziphiidae" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis lucifugus country:"Mexico"" ; Times: 1
+	Query: "country:"Canada" specificepithet:lotor genus:Procyon mappable:1" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(35.125659572523496,24.85107421875))<71551" ; Times: 1
+	Query: "urocitellus richardsonii" ; Times: 1
+	Query: "Myotis lucifugus country:"USA"" ; Times: 1
+	Query: "Myotis keenii country:"USA"" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Myotis volans country:"USA"" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"USA"" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Antrozous pallidus country:"USA"" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "muntiacus reevesi" ; Times: 1
+	Query: "Myotis evotis country:"USA"" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "Myotis thysanodes country:"USA"" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:breviceps genus:Geomys" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Antrozous pallidus country:"Mexico"" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Illinois" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "Lasiurus cinereus country:"USA"" ; Times: 1
+	Query: "Eptesicus fuscus country:"USA"" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 652
+Total number of records retrieved from searches: 2947
+Number of download events that retrieved data from the resource: 348
+Total number of records downloaded: 14508
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 962
+Total number of records retrieved from searches: 3887
+Number of download events that retrieved data from the resource: 407
+Total number of records downloaded: 16051
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
