@@ -1,0 +1,326 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 186
+Number of records retrieved in searches: 485
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: France ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 137
+	Country: Unknown ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 10
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-04 ; Times: 2
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 7
+	Date: 2015-07-10 ; Times: 19
+	Date: 2015-07-11 ; Times: 4
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 5
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 4
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 10
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 5
+	Date: 2015-07-22 ; Times: 27
+	Date: 2015-07-23 ; Times: 6
+	Date: 2015-07-24 ; Times: 5
+	Date: 2015-07-26 ; Times: 9
+	Date: 2015-07-27 ; Times: 24
+	Date: 2015-07-28 ; Times: 11
+	Date: 2015-07-29 ; Times: 10
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysochloridae" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: ""eptesicus furinalis" country:"Mexico"" ; Times: 2
+	Query: "Pygmy hog" ; Times: 1
+	Query: "country:"Colombia" genus:Myrmecophaga" ; Times: 3
+	Query: "Atelidae tissue:1" ; Times: 3
+	Query: "genus:Myrmecobius" ; Times: 1
+	Query: "genus:Anomalurus year >= 1979 year <= 2015" ; Times: 1
+	Query: "genus:Catagonus year >= 1975 year <= 2015" ; Times: 1
+	Query: "Herpestidae year >= 1975 year <= 2015" ; Times: 3
+	Query: "concolor arizona" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "genus:Atherurus" ; Times: 1
+	Query: "acomys ignitus" ; Times: 1
+	Query: "Chelonia institutioncode:YPM" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Viverridae" ; Times: 2
+	Query: "Elephant african" ; Times: 1
+	Query: "mustela rixosa" ; Times: 1
+	Query: "Ypm stateprovince:"Vermont"" ; Times: 1
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 2
+	Query: "chrysochloridae type:specimen" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.210420445650286,-123.046875))<94927.25484358975" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 10
+	Query: "Gorilla tissue:1" ; Times: 2
+	Query: "Syncerus caffer" ; Times: 1
+	Query: "stateprovince:alaska class:reptilia NOT basisofrecord:fossilspecimen" ; Times: 1
+	Query: "genus:Coendou" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus (caribbean)" ; Times: 1
+	Query: "Gorilla "gorilla,gorilla" tissue:1" ; Times: 2
+	Query: "genus:orycteropus" ; Times: 1
+	Query: ""Equus grevyi"" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "Paradoxurinae" ; Times: 2
+	Query: "peromyscus boylii utah" ; Times: 1
+	Query: "hippopotamus" ; Times: 1
+	Query: "notoryctes type:specimen (skeleton)" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.210420445650286,-123.046875))<74346" ; Times: 1
+	Query: "lonchophylla hesperia" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "dermoptera type:specimen (skeleton)" ; Times: 1
+	Query: "golden mole" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "genus:Natalus year >= 1975 year <= 2015" ; Times: 1
+	Query: "specificepithet:collaris genus:Hemiechinus" ; Times: 5
+	Query: "sus salvanius" ; Times: 13
+	Query: "lepus americanus distance(location,geopoint(49.837982453084834,-123.24462890625))<100000" ; Times: 1
+	Query: "genus:cyclopes" ; Times: 1
+	Query: "Anomaluridae type:specimen (skeleton)" ; Times: 1
+	Query: ""Sciurus carolinensis" tissue:1" ; Times: 1
+	Query: "petrodromus" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "genus:Loris year >= 1975 year <= 2015" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "neotoma cinerea utah" ; Times: 3
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "dipodoidea" ; Times: 1
+	Query: "chrysochloridae type:specimen (skeleton)" ; Times: 1
+	Query: "Procyon Wyoming" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Canis rufus type:specimen tissue:1" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 2
+	Query: "callospermophilus lateralis utah" ; Times: 1
+	Query: "tupaia type:specimen (skeleton)" ; Times: 1
+	Query: "panthera leo" ; Times: 7
+	Query: "bovidae (weight OR mass)" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "genus:Anomalurus year >= 1975 year <= 2015" ; Times: 1
+	Query: "Giraffidae year >= 1975 year <= 2015" ; Times: 1
+	Query: ""natalus mexicanus" country:"Mexico"" ; Times: 1
+	Query: "Pan troglodytes tissue:1" ; Times: 2
+	Query: "Xerospermophilus mohavensis mappable:1" ; Times: 1
+	Query: "Sus salvanius" ; Times: 4
+	Query: "oryx" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "country:"argentina" recordedby:humphrey year >= 1960 year <= 1962" ; Times: 1
+	Query: "rhinocerotidae" ; Times: 1
+	Query: "Rio Paca" ; Times: 1
+	Query: "Indriidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "genus:Propithecus year >= 1975 year <= 2015" ; Times: 1
+	Query: "Canis rufus" ; Times: 3
+	Query: "genus:Idiurus" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.837982453084834,-123.24462890625))<130414" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 2
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia AND (NOT fossilspecimen)" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.837982453084834,-123.24462890625))<94927" ; Times: 1
+	Query: "lepus americanus mappable:1 distance(location,geopoint(50.085344397538876,-122.8546142578125))<100000" ; Times: 1
+	Query: "Didelphis marsupialis country:"Costa Rica"" ; Times: 1
+	Query: "Natator institutioncode:YPM" ; Times: 1
+	Query: "ursus americanus emmonsii" ; Times: 1
+	Query: "specificepithet:cristata genus:Proteles" ; Times: 10
+	Query: "skeleton "Equus quagga"" ; Times: 1
+	Query: "lepus americanus mappable:1 distance(location,geopoint(50.085344397538876,-122.8546142578125))<23364" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus (island)" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: ""Canis rufus"" ; Times: 1
+	Query: "country:"argentina" recordedby:humphrey year >= 1961 year <= 1961" ; Times: 1
+	Query: "lepus americanus mappable:1 distance(location,geopoint(50.085344397538876,-122.8546142578125))<65032" ; Times: 1
+	Query: "chrysochloridae (skull)" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia NOT basisofrecord:fossilspecimen" ; Times: 1
+	Query: "stateprovince:"Alaska" class:reptilia fossil:0" ; Times: 2
+	Query: "lepus americanus mappable:1 distance(location,geopoint(49.23194729854557,-123.0853271484375))<23363.626696110918" ; Times: 1
+	Query: "county:"Dane" stateprovince:"Wisconsin" class:mammalia year <= 2015" ; Times: 1
+	Query: "genus:Thryonomys" ; Times: 1
+	Query: "lepus americanus mappable:1 distance(location,geopoint(50.12057809796007,-123.486328125))<100000" ; Times: 1
+	Query: "specificepithet:congicus genus:Funisciurus" ; Times: 2
+	Query: "genus:Ptilocercus" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Mammalia" ; Times: 1
+	Query: "specificepithet:pratensis genus:Steatomys" ; Times: 3
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1084 download events in this period)
+Total number of records downloaded: 3632 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2520
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 6
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 4
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-22 ; Times: 5
+	Date: 2015-07-23 ; Times: 4
+	Date: 2015-07-24 ; Times: 12
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 6
+	Date: 2015-07-28 ; Times: 10
+	Date: 2015-07-30 ; Times: 10
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""eptesicus furinalis" country:"Mexico"" ; Times: 4
+	Query: ""pipistrellus hesperus" country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "country:"Colombia" genus:Myrmecophaga" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: ""mormoops megalophylla" country:"Mexico"" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: ""artibeus jamaicensis" country:"Mexico"" ; Times: 1
+	Query: ""tadarida brasiliensis" country:"Mexico"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "lonchophylla hesperia" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "sus salvanius" ; Times: 1
+	Query: "Encantada country:"Mexico"" ; Times: 1
+	Query: ""Leptonycteris nivalis" country:"Mexico"" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "country:"mexico" specificepithet:mexicana genus:Choeronycteris" ; Times: 1
+	Query: ""Antrozous pallidus" country:"Mexico"" ; Times: 1
+	Query: ""Sciurus carolinensis" tissue:1" ; Times: 2
+	Query: "petrodromus" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: ""Glossophaga soricina" country:"Mexico"" ; Times: 2
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: ""leptonycteris curasoae" country:"mexico"" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: ""natalus mexicanus" country:"Mexico"" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: ""carollia brevicauda" country:"Mexico"" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: ""Choeronycteris mexicana" country:"Mexico"" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Procyon Wyoming" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "Didelphis marsupialis country:"Costa Rica"" ; Times: 1
+	Query: "ursus americanus emmonsii" ; Times: 1
+	Query: "blarina missouri" ; Times: 1
+	Query: ""balantiopteryx io" country:"Mexico"" ; Times: 1
+	Query: "phoca vitulina richardii" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: ""myotis velifer" country:"Mexico"" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "philander opossum" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: ""plecotus townsendii" country:"Mexico"" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 838
+Total number of records retrieved from searches: 3432
+Number of download events that retrieved data from the resource: 448
+Total number of records downloaded: 18140
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1148
+Total number of records retrieved from searches: 4372
+Number of download events that retrieved data from the resource: 507
+Total number of records downloaded: 19683
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
