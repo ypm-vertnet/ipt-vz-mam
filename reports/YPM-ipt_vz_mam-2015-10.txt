@@ -1,0 +1,324 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1167
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 30
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 109
+	Country: Guatemala ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 8
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 10
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 10
+	Date: 2015-10-15 ; Times: 9
+	Date: 2015-10-12 ; Times: 12
+	Date: 2015-10-13 ; Times: 18
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 5
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 12
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 8
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-04 ; Times: 2
+	Date: 2015-10-07 ; Times: 8
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-09 ; Times: 7
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 12
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "lepus callotis" ; Times: 3
+	Query: "Odocoileus virginianus (New York) distance(location,geopoint(42.58679243279068,-76.904296875))&lt;50338" ; Times: 1
+	Query: "African wild dog specificepithet:pictus genus:Lycaon mappable:1" ; Times: 2
+	Query: "(bat) mappable:1 distance(location,geopoint(48.567520373908266,-123.013916015625))&lt;100000" ; Times: 2
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "xtocomo" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin) year &gt;= 1940 year &lt;= 1950" ; Times: 1
+	Query: "sarawak Hominidae" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "felidae genus:leopardus family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "FALK 1" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "felidae genus:Herpailurus family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "tamandua mexicana MEXICO" ; Times: 1
+	Query: "Otonycteris hemprichii continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "stateprovince:&#34;Mysore&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "Vampire bats" ; Times: 2
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.929615368668024,-75.849609375))&lt;100000" ; Times: 1
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "procyon lotor stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "red panda" ; Times: 1
+	Query: "stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; institutioncode:YPM" ; Times: 1
+	Query: "mummy" ; Times: 3
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "vampire" ; Times: 7
+	Query: "panthera leo" ; Times: 3
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT AMNH) institutioncode:YPM" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "Tragulidae institutioncode:YPM" ; Times: 1
+	Query: "Coendou quichua" ; Times: 1
+	Query: "Bassariscus astutus distance(location,geopoint(36.7682256447202,-121.81640625))&lt;312033" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen (New York)" ; Times: 2
+	Query: "felidae campeche" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Georgia&#34; (skin)" ; Times: 1
+	Query: "class:Mammalia locality:Buru" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 8
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "(bat) mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 2
+	Query: "sloth" ; Times: 1
+	Query: "testudines institutioncode:YPM tissue:1" ; Times: 2
+	Query: "felidae chiapas" ; Times: 2
+	Query: "lynx canadensis media:1" ; Times: 1
+	Query: "bats" ; Times: 2
+	Query: "African wild dog specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Enhydra lutris japan" ; Times: 3
+	Query: "specificepithet:wiedii genus:Leopardus institutioncode:YPM" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Odocoileus virginianus and Missouri" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.18511618490258,-78.75))&lt;100000" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "&#34;Parahyaena&#34;" ; Times: 1
+	Query: "lynx canadensis stateprovince:&#34;British Columbia&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT AMNH)" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "catalognumber:013622 institutioncode:YPM" ; Times: 1
+	Query: "pest" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "PUMA yagouaroundi" ; Times: 1
+	Query: "Taphozous nudiventris continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "mass mammalia" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Erethizon (Mexico)" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 7
+	Query: "procyon lotor illinois" ; Times: 2
+	Query: "herpailurus" ; Times: 2
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "felidae specificepithet:CONCOLOR genus:PUMA family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Odocoileus virginianus (New York) distance(location,geopoint(42.58679243279068,-76.904296875))&lt;100000" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "caracal" ; Times: 1
+	Query: "Guatemala carnivores" ; Times: 2
+	Query: "Jaguar" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;African wild dog&#34; specificepithet:pictus genus:Lycaon mappable:1" ; Times: 2
+	Query: "Golden moles" ; Times: 1
+	Query: "fairy armadillo" ; Times: 2
+	Query: "giraffidae media:1" ; Times: 4
+	Query: "&#34;African wild dog&#34; specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "deer antler" ; Times: 5
+	Query: "blue whale" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 3
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 4
+	Query: "type:specimen catalognumber:001726" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Brown bats" ; Times: 2
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.929615368668024,-75.849609375))&lt;148347" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 129 (out of 823 download events in this period)
+Total number of records downloaded: 3277
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 64
+	Country: Chile ; Times: 3
+	Country: Czech Republic ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 13
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 4
+	Date: 2015-10-12 ; Times: 9
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 13
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 9
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-30 ; Times: 17
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "&#34;Parahyaena&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "sylhet" ; Times: 1
+	Query: "stateprovince:&#34;Mysore&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "mouse texas" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "felidae campeche" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "felidae baja california" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "felidae chiapas" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "north american porcupine" ; Times: 2
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Meriones Libycus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "deer antler" ; Times: 2
+	Query: "philander opossum" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
