@@ -1,0 +1,225 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 975
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 1
+	Country: United States ; Times: 64
+	Country: United Kingdom ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 9
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-25 ; Times: 9
+	Date: 2016-01-28 ; Times: 7
+	Date: 2016-01-29 ; Times: 7
+	Date: 2016-01-08 ; Times: 5
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 6
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 6
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 5
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-31 ; Times: 12
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma concolor Arizona" ; Times: 2
+	Query: "gazella" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "Myoprocta" ; Times: 2
+	Query: "Erethizon dorsatum &#34;North American porcupine&#34; mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "Hippotragus niger" ; Times: 5
+	Query: "Profelis aurata" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "mammals coahuila" ; Times: 8
+	Query: "distance(location,geopoint(27.729036,-113.867516))&lt;15000" ; Times: 1
+	Query: "&#34;Mustela nigripes&#34; mappable:1" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "palau (hill) year &gt;= 1900 year &lt;= 1955" ; Times: 1
+	Query: "sea otters" ; Times: 3
+	Query: "Loxodonta &#34;africana&#34; mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "dasypus novemcinctus institutioncode:YPM tissue:1" ; Times: 1
+	Query: "Cebuella" ; Times: 3
+	Query: "connochaetes" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "family:Muridae country:&#34;Indonesia&#34; preparations:Skeleton" ; Times: 3
+	Query: "Suricatta" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34;" ; Times: 2
+	Query: "black footed ferret mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "leucistic" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "Muridae type:specimen country:&#34;USA&#34; (skeleton)" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "county:&#34;Williamson&#34;" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "type:specimen county:&#34;Honolulu County&#34; stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Neofelis diardi" ; Times: 1
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "squirrels" ; Times: 1
+	Query: "Oncifelis guigna" ; Times: 1
+	Query: "Castor canadensis media:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Oreailurus jacobita" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "coati" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "canis aureus" ; Times: 3
+	Query: "genus:Equus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "dasypus novemcinctus tissue:1" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "echimys" ; Times: 1
+	Query: "Odocoileus virginianus media:1" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus santacruzae" ; Times: 1
+	Query: "county:&#34;King&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "specificepithet:osgoodi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Cebuella pygmaea type:specimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 507 download events in this period)
+Total number of records downloaded: 2461
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 42
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 5
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 5
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;Mustela nigripes&#34; mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "dasypus novemcinctus institutioncode:YPM tissue:1" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34; (skeleton)" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "Blarina brevicauda stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Oncifelis guigna" ; Times: 1
+	Query: "Gulo gulo &#34;wolverine&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Oreailurus jacobita" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "dasypus novemcinctus tissue:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Neofelis diardi" ; Times: 1
+
+
+End of report.
