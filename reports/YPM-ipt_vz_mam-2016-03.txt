@@ -1,0 +1,117 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 33
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 14
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:arctos stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Marmota broweri" ; Times: 2
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:hirtula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "type:specimen genus:Poiana institutioncode:YPM" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "otospermophilus variegatus utah museum of natural history" ; Times: 1
+	Query: "genus:acinonyx family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ichneumia" ; Times: 2
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 2
+	Query: "Babyrousa" ; Times: 1
+	Query: "hylobates lar lar" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "urocitellus mollis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "recordedby:b heinrich" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Sitatunga" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:aureus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:caracal family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 230 download events in this period)
+Total number of records downloaded: 23295
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 46
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-10 ; Times: 14
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "babyrousa" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "babirusa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "urocitellus mollis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
