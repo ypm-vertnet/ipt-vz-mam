@@ -1,0 +1,169 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 1698
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 70
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 13
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 8
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-31 ; Times: 15
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 8
+	Date: 2016-05-04 ; Times: 9
+	Date: 2016-05-05 ; Times: 6
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 6
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 10
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 10
+	Query: "gray wolf" ; Times: 2
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "Spilocuscus maculatus media:1" ; Times: 1
+	Query: "oryctolagus massachusetts" ; Times: 1
+	Query: "Canis Latrans type:specimen year &gt;= 1670 year &lt;= 1900" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "deer mice alaska" ; Times: 1
+	Query: "Ondatra zibethicus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "petaurista" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "Deer Mice" ; Times: 2
+	Query: "Cebuella" ; Times: 1
+	Query: "mustela nigripes" ; Times: 14
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "allegheny woodrat" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;Nevada&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "deer mice utah" ; Times: 1
+	Query: "didelphis massachusetts" ; Times: 5
+	Query: "specificepithet:virginiana genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "sphiggurus" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "foxhound" ; Times: 1
+	Query: "deer mice connecticut" ; Times: 1
+	Query: "deer mice" ; Times: 10
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Helogale Tanzania" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 2
+	Query: "skeleton type:specimen order:carnivora class:mammalia media:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "deer mice new mexico" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias institutioncode:YPM" ; Times: 1
+	Query: "Panda" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 327 download events in this period)
+Total number of records downloaded: 2351
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 18
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+
+
+End of report.
