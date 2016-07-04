@@ -1,0 +1,323 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 478
+Number of records retrieved in searches: 2641
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 5
+	Country: Portugal ; Times: 46
+	Country: Mexico ; Times: 108
+	Country: Unknown ; Times: 13
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 13
+	Country: France ; Times: 2
+	Country: United States ; Times: 275
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-09 ; Times: 9
+	Date: 2016-06-08 ; Times: 17
+	Date: 2016-06-21 ; Times: 42
+	Date: 2016-06-20 ; Times: 75
+	Date: 2016-06-05 ; Times: 16
+	Date: 2016-06-04 ; Times: 15
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-06 ; Times: 9
+	Date: 2016-06-01 ; Times: 42
+	Date: 2016-06-03 ; Times: 28
+	Date: 2016-06-02 ; Times: 42
+	Date: 2016-06-23 ; Times: 11
+	Date: 2016-06-22 ; Times: 7
+	Date: 2016-06-18 ; Times: 14
+	Date: 2016-06-19 ; Times: 10
+	Date: 2016-06-16 ; Times: 33
+	Date: 2016-06-17 ; Times: 19
+	Date: 2016-06-14 ; Times: 22
+	Date: 2016-06-15 ; Times: 14
+	Date: 2016-06-12 ; Times: 8
+	Date: 2016-06-13 ; Times: 16
+	Date: 2016-06-10 ; Times: 8
+	Date: 2016-06-11 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 2
+	Query: "Ovis aries" ; Times: 2
+	Query: "oncifelis" ; Times: 4
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "bison bison   " ; Times: 12
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "pongo" ; Times: 1
+	Query: "scolomys" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:YPM" ; Times: 3
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "canis mesomelas" ; Times: 3
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "catalognumber:013624 institutioncode:YPM" ; Times: 1
+	Query: "ovis aries juvenile" ; Times: 1
+	Query: "giraffe" ; Times: 4
+	Query: "genus:bison" ; Times: 6
+	Query: "8442 mammalia" ; Times: 1
+	Query: "genus:tamandua country:mexico" ; Times: 1
+	Query: "loxodonta africana" ; Times: 4
+	Query: "genus:microtus stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "Chironectes" ; Times: 1
+	Query: "ateles marginatus" ; Times: 5
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 47
+	Query: "varecia" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "YPM 1015" ; Times: 1
+	Query: "specificepithet:Pennsylvanicus genus:Microtus stateprovince:&#34;New hampshire&#34;" ; Times: 2
+	Query: "lycaon pictus" ; Times: 3
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 6
+	Query: "black-tailed jackrabbit" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "Tapirus" ; Times: 1
+	Query: "Sphiggurus" ; Times: 3
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "Mammalian skeleton" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "proteles" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:anomalus genus:Sciurus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Miller year &gt;= 1890 year &lt;= 1905 institutioncode:YPM" ; Times: 1
+	Query: "maned wolf" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 3
+	Query: "Canis aureus" ; Times: 2
+	Query: "Meadows AND Island NOT British" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 3
+	Query: "Neovison vison 1" ; Times: 5
+	Query: "Ammotragus lervia 1" ; Times: 2
+	Query: "Blanford" ; Times: 2
+	Query: "genus:Blarina stateprovince:&#34;vermont&#34;" ; Times: 4
+	Query: "Felis catus" ; Times: 2
+	Query: "aardvark" ; Times: 1
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "Santa Cruz Island AND Mammals AND 1931" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "catalognumber:013314 institutioncode:YPM" ; Times: 1
+	Query: "Macaca sylvanus 1" ; Times: 2
+	Query: "YPM 009999" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "CANIS AUREUS" ; Times: 2
+	Query: "bats" ; Times: 2
+	Query: "ocelot" ; Times: 2
+	Query: "Baird AND San Miguel Island" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "catalognumber:011890 institutioncode:YPM" ; Times: 2
+	Query: "Mus musculus 1" ; Times: 4
+	Query: "Sus scrofa" ; Times: 5
+	Query: "myocastor" ; Times: 1
+	Query: "genus:Tamias stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "Santa Cruz Island AND Mammals AND 1903" ; Times: 1
+	Query: "catalognumber:013495 institutioncode:YPM" ; Times: 2
+	Query: "catalognumber:013303 institutioncode:YPM" ; Times: 1
+	Query: "mustela nigripes" ; Times: 91
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 13
+	Query: "Canis rufus" ; Times: 1
+	Query: "YPM 008002" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "YPM 008000" ; Times: 2
+	Query: "YPM 008001" ; Times: 1
+	Query: "ateles chamek" ; Times: 13
+	Query: "Pteropus vampyrus" ; Times: 2
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "Herpestes ichneumon 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 4
+	Query: "catalognumber:013873 institutioncode:YPM" ; Times: 1
+	Query: "Dama dama 1" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34;" ; Times: 3
+	Query: "catalognumber:013622 institutioncode:YPM" ; Times: 2
+	Query: "Panthera leo" ; Times: 2
+	Query: "genus:dasypus mappable:1" ; Times: 1
+	Query: "Sphiggurus mexicanus mexicanus" ; Times: 1
+	Query: "canis adustus" ; Times: 5
+	Query: "cuon alpinus" ; Times: 7
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 8
+	Query: "genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "Blunt and SAN Miguel Island" ; Times: 1
+	Query: "Neovison vison stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Pine Marten" ; Times: 3
+	Query: "herpailurus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 6
+	Query: "Atelerix algirus 1" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "homininae" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "country:&#34;Brazil&#34; recordedby:Olalla year &gt;= 1932 year &lt;= 1932" ; Times: 1
+	Query: "Meadows AND Island NOT ALaska" ; Times: 1
+	Query: "Cuon alpinus" ; Times: 1
+	Query: "genus:canis" ; Times: 3
+	Query: "Meadows AND Island NOT British NOT Singapore" ; Times: 1
+	Query: "canis lupus   " ; Times: 8
+	Query: "specificepithet:pinchaque genus:Tapirus" ; Times: 1
+	Query: "canis aureus" ; Times: 7
+	Query: "canis rufus" ; Times: 8
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "genus:Blarina stateprovince:&#34;Maine&#34;" ; Times: 6
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 6
+	Query: "Procyon lotor 1" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 162 (out of 1052 download events in this period)
+Total number of records downloaded: 5490
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 64
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 1
+	Country: United States ; Times: 84
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 8
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-06 ; Times: 5
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 16
+	Date: 2016-06-14 ; Times: 15
+	Date: 2016-06-15 ; Times: 14
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 25
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "dipodomys microps" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 2
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Catagonus" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "Equus grevyi" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "cottonwood springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Atelerix" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "panthera onca" ; Times: 3
+	Query: "varecia" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
