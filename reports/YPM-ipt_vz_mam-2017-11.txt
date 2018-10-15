@@ -1,0 +1,101 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 327
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 4
+	Country: United States ; Times: 51
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 21
+	Date: 2017-11-29 ; Times: 6
+	Date: 2017-11-26 ; Times: 5
+	Date: 2017-11-27 ; Times: 19
+	Date: 2017-11-24 ; Times: 5
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hirtula genus:helogale country:&#34;kenya&#34; institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34; institutioncode:YPM" ; Times: 1
+	Query: "elephants" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "genus:Diceros" ; Times: 1
+	Query: "Tayassuidae tayassu tajacu skeleton" ; Times: 1
+	Query: "order:lagomorpha country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 2
+	Query: "Lonchophylla hesperia" ; Times: 4
+	Query: "specificepithet:fulgens genus:Ailurus mappable:1" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 2
+	Query: "Cynomys gunnisoni skeleton" ; Times: 1
+	Query: "mesoplodon mirus" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 2
+	Query: "asian elephant" ; Times: 1
+	Query: "berlandieri specificepithet:hispidus genus:sigmodon country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 3
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "least chipmunk" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus preparations:skin" ; Times: 1
+	Query: "hippocamelus antisensis" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1 hastissue:1" ; Times: 1
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 4
+	Query: "12642" ; Times: 1
+	Query: "specificepithet:hildegardeae genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Equidae skeleton equus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 6
+	Query: "Loris tardigradus" ; Times: 4
+	Query: "family:gliridae country:&#34;kenya&#34;" ; Times: 1
+	Query: "voles" ; Times: 2
+	Query: "suricata" ; Times: 1
+	Query: "Galerella" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1101 download events in this period)
+Total number of records downloaded: 321
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 6
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "peromyscus utahensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 1
+
+
+End of report.
