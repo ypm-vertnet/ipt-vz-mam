@@ -1,0 +1,592 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 840
+Number of records retrieved in searches: 3671
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United Kingdom ; Times: 17
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 46
+	Country: Denmark ; Times: 157
+	Country: Finland ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 589
+	Country: Guatemala ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 22
+	Date: 2018-01-18 ; Times: 13
+	Date: 2018-01-31 ; Times: 32
+	Date: 2018-01-30 ; Times: 21
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-10 ; Times: 13
+	Date: 2018-01-13 ; Times: 12
+	Date: 2018-01-12 ; Times: 13
+	Date: 2018-01-15 ; Times: 57
+	Date: 2018-01-14 ; Times: 39
+	Date: 2018-01-17 ; Times: 19
+	Date: 2018-01-16 ; Times: 57
+	Date: 2018-01-24 ; Times: 90
+	Date: 2018-01-25 ; Times: 62
+	Date: 2018-01-08 ; Times: 8
+	Date: 2018-01-09 ; Times: 10
+	Date: 2018-01-28 ; Times: 14
+	Date: 2018-01-29 ; Times: 12
+	Date: 2018-01-02 ; Times: 19
+	Date: 2018-01-03 ; Times: 14
+	Date: 2018-01-26 ; Times: 14
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 20
+	Date: 2018-01-22 ; Times: 74
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 7
+	Date: 2018-01-05 ; Times: 7
+	Date: 2018-01-23 ; Times: 154
+	Date: 2018-01-27 ; Times: 12
+	Date: 2018-01-20 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "(COLUGO) mappable:1" ; Times: 1
+	Query: "D. virginiana Didelphis virginiana mappable:1" ; Times: 2
+	Query: "specificepithet:albogularis genus:cercopithecus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "genus:Macaca nemestrina" ; Times: 2
+	Query: "order colugo? mappable:1" ; Times: 2
+	Query: "Dasypus novemcinctus skeleton" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 21
+	Query: "colugo order:dermoptera mappable:1" ; Times: 4
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "COLUGO mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34;" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 26
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 6
+	Query: "distance(location,geopoint(41.3882413735,-71.9685044765))&lt;8457" ; Times: 2
+	Query: "muskrat" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "distance(location,geopoint(41.8351487459,-73.4874272519999))&lt;9409" ; Times: 2
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "Suricata suricatta mappable:1" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:bairdii genus:Tapirus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "(&#34;Ailurus fulgens&#34;) mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "specificepithet:crassicaudatus genus:otolemur country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "macaca mulatta continent:asia" ; Times: 1
+	Query: "specificepithet:cynocephalus genus:papio country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Armadillo mappable:1" ; Times: 1
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Kinkajou mappable:1" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Cervus elaphus brauneri" ; Times: 4
+	Query: "Dama dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; country:&#34;USA&#34; institutioncode:YPM" ; Times: 1
+	Query: "COLUGO" ; Times: 2
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "colugo mappable:1" ; Times: 28
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34; institutioncode:YPM" ; Times: 1
+	Query: "Cryptotis mam" ; Times: 1
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "&#34;orycteropus afer&#34; mappable:1" ; Times: 1
+	Query: "pekania pennanti" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "Birch Island" ; Times: 1
+	Query: "golden mole" ; Times: 2
+	Query: "trichechidae vntype:specimen institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:cynocephalus genus:papio country:&#34;kenya&#34;" ; Times: 1
+	Query: "melanomys" ; Times: 1
+	Query: "Philander andersoni opossum" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "helarctos malayanus continent:asia" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "specificepithet:neglectus genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:neglectus genus:cercopithecus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "(Armadillo) mappable:1" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34;" ; Times: 2
+	Query: "neofelis diardi" ; Times: 3
+	Query: "African wild dog mappable:1" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:c9b7ecb2-ade2-4197-9808-16de3bf96abc&#34;" ; Times: 4
+	Query: "Panthera leo" ; Times: 3
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus institutioncode:YPM" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "masked shrew" ; Times: 1
+	Query: "specificepithet:punctatus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "norway rat" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "elephant shrew mappable:1" ; Times: 1
+	Query: "tapir" ; Times: 1
+	Query: "COLUGO ORDER" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "rhesus macaque" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "small mammals new mexico" ; Times: 1
+	Query: "Javan Rhino" ; Times: 2
+	Query: "class:Mammalia country:&#34;Ivory Coast&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:anubis genus:papio country:&#34;kenya&#34;" ; Times: 2
+	Query: "dermoptera year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(29.2034529045,-95.677070527875))&lt;10969" ; Times: 3
+	Query: "specificepithet:americana genus:Antilocapra stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 30
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "Cervus elaphus maral" ; Times: 4
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "vampire" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 3
+	Query: "iptrecordid:&#34;urn:uuid:347e1923-22bd-4575-8ce7-f58cc3f27cf1&#34;" ; Times: 4
+	Query: "genus:Macaca" ; Times: 1
+	Query: "Panthera Leo mappable:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "tapirus indicus continent:asia" ; Times: 1
+	Query: "baboon" ; Times: 1
+	Query: "Armadillo" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "&#34;nine banded armadillo&#34;" ; Times: 1
+	Query: "Alouatta villosa" ; Times: 1
+	Query: "colugo" ; Times: 59
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "genus:Baiomys order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "otolemur zambia" ; Times: 2
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34;" ; Times: 2
+	Query: "(armadillo) mappable:1" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "distance(location,geopoint(29.107380701,-95.680900670125))&lt;12140" ; Times: 3
+	Query: "genus:zygodontomys institutioncode:YPM" ; Times: 2
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "(colugo order)" ; Times: 2
+	Query: "armadillo mappable:1" ; Times: 5
+	Query: "Diceros bicornis" ; Times: 5
+	Query: "specificepithet:gambianus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "cuon alpinus continent:asia" ; Times: 1
+	Query: "(Colugo) mappable:1" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 2
+	Query: "anteater" ; Times: 1
+	Query: "Kodiak Bear" ; Times: 1
+	Query: "(colugo ) mappable:1" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:musculus genus:balaenoptera preparations:skeleton" ; Times: 1
+	Query: "&#34;nasua nasua&#34; brazil" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Macaca" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Diceros bicornis mappable:1" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "colugo order mappable:1" ; Times: 2
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "(11819) institutioncode:YPM" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "specificepithet:albogularis genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Otolemur zambia" ; Times: 1
+	Query: "(panda) mappable:1" ; Times: 1
+	Query: "gazella dorcas" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "genus:perodicticus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "vntype:specimen genus:Macaca institutioncode:YPM" ; Times: 1
+	Query: "genus:perodicticus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Capra nubiana" ; Times: 4
+	Query: "nyctalus leisleri" ; Times: 1
+	Query: "Order of colugo" ; Times: 1
+	Query: "Elephas maximus indicus" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis country:&#34;USA&#34; mappable:1" ; Times: 1
+	Query: "collared peccary" ; Times: 1
+	Query: "(caracal caracal)" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:undulatus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "Alces alces americana" ; Times: 4
+	Query: "suid" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 1
+	Query: "&#34;panthera leo&#34; mappable:1" ; Times: 1
+	Query: "armadillos" ; Times: 1
+	Query: "Dryomys nitedula" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Tamandua mexicana Mexico" ; Times: 5
+	Query: "Trichechus senegalensis vntype:specimen" ; Times: 2
+	Query: "Equus asinus" ; Times: 1
+	Query: "Cervus elaphus canadensis" ; Times: 4
+	Query: "stateprovince:&#34;nebraska&#34; institutioncode:YPM" ; Times: 2
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "felis concolor" ; Times: 5
+	Query: "Halichoerus grypus" ; Times: 10
+	Query: "Dactylomys dactylinus" ; Times: 5
+	Query: "bos gaurus" ; Times: 2
+	Query: "&#34;Ailurus fulgens&#34; mappable:1" ; Times: 2
+	Query: "colugo order" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 9
+	Query: "diceros" ; Times: 1
+	Query: "c w peale" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "iptrecordid:&#34;urn:uuid:91e64882-f1d4-4b15-a842-7dd812bddf2a&#34;" ; Times: 4
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 3
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "distance(location,geopoint(29.7189808702855,-93.8858990183471))&lt;2043" ; Times: 3
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "&#34;Panthera leo&#34; mappable:1" ; Times: 4
+	Query: "class:Mammalia tapirus pinchaque" ; Times: 1
+	Query: "specificepithet:mulatta genus:Macaca" ; Times: 1
+	Query: "Vulpes vulpes rubricosa" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "specificepithet:hildegardeae genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "&#34;Tapirus bairdii&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.0529880055,-72.52838754025))&lt;24385" ; Times: 2
+	Query: "genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "Rhinoceros unicornis" ; Times: 3
+	Query: "distance(location,geopoint(41.6955370844,-73.5479953923504))&lt;9550" ; Times: 2
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "distance(location,geopoint(29.6964244368575,-93.8775603898847))&lt;3167" ; Times: 2
+	Query: "specificepithet:pygerythrus genus:chlorocebus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "&#34;Armadillo&#34; mappable:1" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "(caracal) mappable:1" ; Times: 1
+	Query: "Colugo mappable:1" ; Times: 26
+	Query: "specificepithet:hildegardeae genus:crocidura country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "(colugo) mappable:1" ; Times: 15
+	Query: "COLUGO order mappable:1" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "specificepithet:pygerythrus genus:chlorocebus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:crassicaudatus genus:otolemur country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "nine-banded armadillo mappable:1" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "pallas cat" ; Times: 1
+	Query: "distance(location,geopoint(41.3213622905,-71.929566443))&lt;4396" ; Times: 2
+	Query: "(caracal caracal) mappable:1" ; Times: 1
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34;" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "genus:mus stateprovince:&#34;british columbia&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "armadillo continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "(order colugo) mappable:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Loxodonta africana africana mappable:1" ; Times: 6
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 2
+	Query: "mus musculus saint paul" ; Times: 1
+	Query: "Dermoptera (colugo ) mappable:1" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "&#34;Loxodonta africana&#34; mappable:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "atherurus africanus" ; Times: 1
+	Query: "distance(location,geopoint(29.7114620591425,-93.8838571515))&lt;2563" ; Times: 3
+	Query: "Alces alces americana mappable:1" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "&#34;DASYPUS NOVEMCINCTUS&#34; mappable:1" ; Times: 1
+	Query: "bos javanicus" ; Times: 3
+	Query: "armadillo class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "&#34;Cercopithecus neglectus&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:mohavensis" ; Times: 1
+	Query: "Vulpes vulpes fulvus" ; Times: 3
+	Query: "Colugo Order" ; Times: 1
+	Query: "order of colugo" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "cheetah" ; Times: 3
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(29.703943248,-93.8820537597454))&lt;2736" ; Times: 2
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "melanomys ecuador" ; Times: 3
+	Query: "distance(location,geopoint(41.4396964680001,-71.663528582))&lt;23842" ; Times: 2
+	Query: "Canis lupus occidentalis mappable:1" ; Times: 1
+	Query: "specificepithet:bairdii genus:tapirus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Rhynchocyon petersi mappable:1" ; Times: 1
+	Query: "vntype:specimen order:Rodentia country:&#34;Iraq&#34;" ; Times: 1
+	Query: "capricornis sumatraensis continent:asia" ; Times: 1
+	Query: "Herpestes edwardsii" ; Times: 1
+	Query: "distance(location,geopoint(42.3672883564,-71.3832157696148))&lt;2016" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:monteiri genus:OTOLEMUR" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Pongo pygmaeus mappable:1" ; Times: 1
+	Query: "extant mammals mappable:1" ; Times: 1
+	Query: "dermoptera Cynocephalus variegatus mappable:1" ; Times: 2
+	Query: "(colugo dermoptera) mappable:1" ; Times: 1
+	Query: "Colugo" ; Times: 19
+	Query: "distance(location,geopoint(44.839271747,-71.6058302245))&lt;20600" ; Times: 2
+	Query: "distance(location,geopoint(43.7464742235001,-72.0455102745))&lt;9881" ; Times: 2
+	Query: "(Cynocephalidae) mappable:1" ; Times: 1
+	Query: "specificepithet:anubis genus:papio country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "dhole" ; Times: 1
+	Query: "genus:Halichoerus continent:North America" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "&#34;red panda&#34; mappable:1" ; Times: 2
+	Query: "dasypus novemcinctus class:Mammalia continent:North America mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(26.250399137,-97.3632468503964))&lt;6433" ; Times: 3
+	Query: "chlamyphorus truncatus" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "dermoptera" ; Times: 5
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "order of colugo mappable:1" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 4
+	Query: "&#34;dermoptera&#34; &#34;colugo&#34; mappable:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:cynomys family:sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "COLUGO order" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Mazama temama" ; Times: 1
+	Query: "Colugo order" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+	Query: "otolemur kenya" ; Times: 1
+	Query: "hedgehog" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 392 (out of 1398 download events in this period)
+Total number of records downloaded: 3810
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United Kingdom ; Times: 13
+	Country: Italy ; Times: 26
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 332
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 14
+	Date: 2018-01-18 ; Times: 11
+	Date: 2018-01-31 ; Times: 22
+	Date: 2018-01-30 ; Times: 34
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 3
+	Date: 2018-01-24 ; Times: 41
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 6
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 39
+	Date: 2018-01-25 ; Times: 41
+	Date: 2018-01-26 ; Times: 7
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 10
+	Date: 2018-01-21 ; Times: 6
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 34
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-23 ; Times: 92
+	Date: 2018-01-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sorex arcticus vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "macaca mulatta continent:asia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "colugo mappable:1" ; Times: 2
+	Query: "(Cynocephalidae) mappable:1" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "melanomys" ; Times: 1
+	Query: "specificepithet:canipes genus:Tamias" ; Times: 1
+	Query: "helarctos malayanus continent:asia" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "order:Dasyuromorphia" ; Times: 1
+	Query: "African wild dog mappable:1" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "cuon alpinus continent:asia" ; Times: 1
+	Query: "muntiacus muntjak continent:asia" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "specificepithet:glareolus genus:Myodes family:Cricetidae order:Rodentia class:Mammalia year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "tapirus indicus continent:asia" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "colugo" ; Times: 3
+	Query: "Mus musculus" ; Times: 1
+	Query: "trinidad zygodontomys" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "(Colugo) mappable:1" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera preparations:skeleton" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "hippopotamus amphibius mappable:1" ; Times: 1
+	Query: "Colugo" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "nyctalus leisleri" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "Vulpes vulpes fulvus" ; Times: 2
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Colugo mappable:1" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "Neovison vison" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "Vulpes vulpes rubricosa" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "capricornis sumatraensis continent:asia" ; Times: 1
+	Query: "Herpestes edwardsii" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "genus:Ochotona AND (NOT princeps) hastissue:1" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "dermoptera Cynocephalus variegatus mappable:1" ; Times: 2
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "hylobates lar continent:asia" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+
+
+End of report.
