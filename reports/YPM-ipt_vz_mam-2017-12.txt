@@ -1,0 +1,267 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1091
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 30
+	Country: France ; Times: 2
+	Country: United States ; Times: 122
+	Country: Unknown ; Times: 7
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Gambia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 4
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 6
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 7
+	Date: 2017-12-10 ; Times: 5
+	Date: 2017-12-11 ; Times: 4
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 7
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 5
+	Date: 2017-12-26 ; Times: 9
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 7
+	Date: 2017-12-23 ; Times: 2
+	Date: 2017-12-22 ; Times: 10
+	Date: 2017-12-21 ; Times: 6
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-05 ; Times: 8
+	Date: 2017-12-04 ; Times: 42
+	Date: 2017-12-07 ; Times: 3
+	Date: 2017-12-06 ; Times: 5
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-03 ; Times: 22
+	Date: 2017-12-02 ; Times: 3
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "lepus callotis" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia country:&#34;kenya&#34; institutioncode:YPM" ; Times: 3
+	Query: "Spalax typhlus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "ermine" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "specificepithet:vittata genus:Galictis country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "wizard" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "pallescens vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico NOT Argentina NOT MOra" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "YPM 16080" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Nannospalax leucodon" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "genus:otocyon country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:aureus genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 27
+	Query: "Ermine" ; Times: 1
+	Query: "Elephant tusk" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Suid" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "sorex dispar" ; Times: 4
+	Query: "Dicerorhinus sumatrensis" ; Times: 1
+	Query: "distance(location,geopoint(44.839271747,-71.6058302245))&lt;20600" ; Times: 1
+	Query: "genus:Mallomys" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "Pekania pennanti" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34; institutioncode:YPM" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "mount olympus" ; Times: 1
+	Query: "family:mustelidae stateprovince:&#34;newfoundland&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos country:&#34;kenya&#34;" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: "star-nosed mole" ; Times: 4
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "clouded leopard" ; Times: 1
+	Query: "ypm 9855" ; Times: 2
+	Query: "YPM 16868" ; Times: 2
+	Query: "Red wolf" ; Times: 1
+	Query: "gerbil" ; Times: 1
+	Query: "suid" ; Times: 1
+	Query: "Ibrahim" ; Times: 1
+	Query: "genus:lycaon country:&#34;kenya&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "mungo mungos" ; Times: 2
+	Query: "halichoerus grypus vntype:specimen country:&#34;USA&#34;" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; institutioncode:YPM" ; Times: 3
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "family:Rhinocerotidae institutioncode:YPM" ; Times: 2
+	Query: "Farallon Mammals NOT Mexico NOT Argentina" ; Times: 2
+	Query: "genus:atelerix country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "specificepithet:albicauda genus:ichneumia country:&#34;kenya&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Canis continent:Asia" ; Times: 1
+	Query: "north haven specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Alpaca" ; Times: 1
+	Query: "pine marten" ; Times: 3
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "Spalax leucodon" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "chile AND zaedyus" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis country:&#34;kenya&#34;" ; Times: 2
+	Query: "Tapirus pinchaque" ; Times: 10
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "mustela frenata massachusetts" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "Farallon Mammals" ; Times: 5
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "YPM 16079" ; Times: 2
+	Query: "scolomys melanops" ; Times: 1
+	Query: "specificepithet:punctatus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 674 download events in this period)
+Total number of records downloaded: 1957
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-26 ; Times: 18
+	Date: 2017-12-27 ; Times: 11
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-11 ; Times: 4
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 8
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "lepus callotis" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "chipmunk" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
