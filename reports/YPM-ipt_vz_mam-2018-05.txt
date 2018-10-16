@@ -1,0 +1,296 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 1775
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 33
+	Country: Mexico ; Times: 12
+	Country: Tunisia ; Times: 1
+	Country: Unknown ; Times: 18
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 199
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 10
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 8
+	Date: 2018-05-22 ; Times: 14
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-24 ; Times: 5
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 5
+	Date: 2018-05-07 ; Times: 14
+	Date: 2018-05-04 ; Times: 20
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 9
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 8
+	Date: 2018-05-08 ; Times: 19
+	Date: 2018-05-09 ; Times: 6
+	Date: 2018-05-31 ; Times: 10
+	Date: 2018-05-30 ; Times: 9
+	Date: 2018-05-15 ; Times: 5
+	Date: 2018-05-14 ; Times: 13
+	Date: 2018-05-17 ; Times: 28
+	Date: 2018-05-16 ; Times: 19
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 28
+	Date: 2018-05-13 ; Times: 7
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 6
+	Date: 2018-05-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.6317882099673))&lt;9664" ; Times: 1
+	Query: "lepus callotis" ; Times: 1
+	Query: "distance(location,geopoint(41.5160441908394,-96.0198408340023))&lt;18975" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Aonyx cinereus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:YPM" ; Times: 1
+	Query: "Island Goldman" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "institutioncode:YPM clark" ; Times: 3
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "canis familiaris foxhound ypm" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "canis familiaris basset ypm" ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "equus quagga" ; Times: 3
+	Query: "specificepithet:familiaris genus:Canis hastissue:1" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:YPM" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "scientificname:Cryptotis osgoodi " ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "canis familiaris borzoi ypm" ; Times: 2
+	Query: "gaur" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 1
+	Query: "canis familiaris deerhound ypm" ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "Pentalagus" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 2
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "country:Ecuador scientificname:Myoprocta pratti " ; Times: 3
+	Query: "eumops floridanus" ; Times: 2
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:YPM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "Dogs" ; Times: 1
+	Query: "Tapir" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 36
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 13
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 1
+	Query: "Microtus pinetorum year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:osgoodi " ; Times: 2
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "specificepithet:anomalus genus:Sciurus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "canis familiaris greyhound ypm" ; Times: 1
+	Query: "canis familiaris pekingese ypm" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:YPM" ; Times: 1
+	Query: "canis familiaris whippet ypm" ; Times: 1
+	Query: "canis familiaris coonhound ypm" ; Times: 1
+	Query: "deer mice" ; Times: 3
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "vntype:specimen (Pan troglodytes)" ; Times: 1
+	Query: "canis familiaris boston terrier ypm" ; Times: 1
+	Query: "muntjac" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 1
+	Query: "bighorn 1860" ; Times: 1
+	Query: "canis familiaris basset hound ypm" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "canis familiaris irish wolfhound ypm" ; Times: 2
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:YPM" ; Times: 1
+	Query: "bloodhound ypm" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus mappable:1" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "canis familiaris bloodhound ypm" ; Times: 2
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "canis familiaris coon hound ypm" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 3
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 3
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 1
+	Query: "canis familiaris ypm" ; Times: 2
+	Query: "vntype:specimen (gazella subgutturosa skeleton skull)" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;bronx&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 2
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hemitragus" ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "specificepithet:orientalis genus:Ovis mappable:1" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "minnesota v" ; Times: 1
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "country:Ecuador scientificname:Cuniculus taczanowskii " ; Times: 1
+	Query: "country:Ecuador scientificname:Scolomys melanops " ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "capybara" ; Times: 1
+	Query: "specificepithet:inermis genus:Hydropotes mappable:1" ; Times: 6
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "bos gaurus" ; Times: 1
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:YPM" ; Times: 1
+	Query: "canis familiaris saluki ypm" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "canis familiaris hound ypm" ; Times: 1
+	Query: "canis familiaris grand ypm" ; Times: 1
+	Query: "Cryptotis thomasi" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "canis familiaris dachshund ypm" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 5
+	Query: "canis familiaris wolfhound ypm" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "Rattus rattus Madagascar" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1178 download events in this period)
+Total number of records downloaded: 1215
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "african Elephant" ; Times: 3
+	Query: "Tlaxcala" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Macropus robustus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
