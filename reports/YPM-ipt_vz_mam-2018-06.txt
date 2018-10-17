@@ -1,0 +1,362 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 431
+Number of records retrieved in searches: 2441
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 10
+	Country: Finland ; Times: 3
+	Country: France ; Times: 6
+	Country: United States ; Times: 346
+	Country: China ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 34
+	Date: 2018-06-06 ; Times: 17
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-04 ; Times: 12
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 45
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 24
+	Date: 2018-06-26 ; Times: 13
+	Date: 2018-06-21 ; Times: 16
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 7
+	Date: 2018-06-08 ; Times: 16
+	Date: 2018-06-09 ; Times: 7
+	Date: 2018-06-22 ; Times: 12
+	Date: 2018-06-10 ; Times: 4
+	Date: 2018-06-11 ; Times: 22
+	Date: 2018-06-12 ; Times: 38
+	Date: 2018-06-13 ; Times: 12
+	Date: 2018-06-14 ; Times: 14
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 11
+	Date: 2018-06-17 ; Times: 6
+	Date: 2018-06-18 ; Times: 19
+	Date: 2018-06-19 ; Times: 16
+	Date: 2018-06-30 ; Times: 13
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-28 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 2
+	Query: "cheirogaleus medius" ; Times: 5
+	Query: "genus:Lemur" ; Times: 1
+	Query: "Canis latrans new mexico mearnsi" ; Times: 2
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 2
+	Query: "grizzly bears" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 2
+	Query: "specificepithet:natalensis genus:mastomys country:&#34;kenya&#34; institutioncode:YPM" ; Times: 2
+	Query: "genus:euphractus" ; Times: 1
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "specificepithet:hindei genus:aethomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "specificepithet:gaurus genus:Bos" ; Times: 2
+	Query: "country:Ecuador scientificname:Cuniculus taczanowskii " ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "specificepithet:macaco genus:Eulemur institutioncode:YPM" ; Times: 1
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "specificepithet:musculoides genus:mus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes ida " ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 3
+	Query: "16262" ; Times: 1
+	Query: "lancasteri" ; Times: 1
+	Query: "Varecia" ; Times: 2
+	Query: "family:Lemuridae institutioncode:YPM" ; Times: 1
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 2
+	Query: "gaur" ; Times: 1
+	Query: "genus:rhabdomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "specificepithet:variegata genus:Varecia institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 34
+	Query: "Muroidea" ; Times: 1
+	Query: "specificepithet:natalensis genus:mastomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "sloths" ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "papio anubis" ; Times: 42
+	Query: "Pentalagus" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "snow leopard" ; Times: 11
+	Query: "Hippocamelus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "specificepithet:schnablii genus:Amorphochilus" ; Times: 1
+	Query: "nilgai" ; Times: 2
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 2
+	Query: "genus:Peromyscus distance(location,geopoint(33.4465852736212,-119.21951456390235))&lt;70025" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "genus:pelomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "Cheirogaleus" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis osgoodi " ; Times: 1
+	Query: "acomys" ; Times: 1
+	Query: "specificepithet:coronatus genus:Eulemur institutioncode:YPM" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "mountain beaver distance(location,geopoint(44.997090792612845,-116.41347624508126))&lt;775913" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34; institutioncode:YPM" ; Times: 3
+	Query: "genus:Propithecus institutioncode:YPM" ; Times: 7
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "genus:neofelis" ; Times: 3
+	Query: "specificepithet:gambianus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 1
+	Query: "Aardwolf" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 10
+	Query: "tapir pinchaque" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Morro bay kangaroo rat" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Anomalurus derbianus" ; Times: 1
+	Query: "black-tailed prairie dogs" ; Times: 1
+	Query: "genus:ptilocercus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "genus:mylomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "YPM VZ YPM MAM 010273" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "genus:hydrurga" ; Times: 2
+	Query: "YPM VZ YPM MAM 010330" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 5
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34;" ; Times: 5
+	Query: "specificepithet:gambianus genus:heliosciurus" ; Times: 3
+	Query: "country:Ecuador scientificname:Marmosa waterhousei " ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "cats" ; Times: 1
+	Query: "trichechus senegalensis" ; Times: 11
+	Query: "Anomalurus beecrofti" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:YPM" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "Equus caballus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 3
+	Query: "mountain beaver" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 2
+	Query: "specificepithet:musculoides genus:mus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 3
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "specificepithet:rubra genus:Varecia institutioncode:YPM" ; Times: 1
+	Query: "kithira" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 3
+	Query: "specificepithet:undulatus genus:heliosciurus" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "Mesoplodon mirus United States" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 2
+	Query: "sloth bear" ; Times: 3
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "specificepithet:mongoz genus:Eulemur institutioncode:YPM" ; Times: 1
+	Query: "family:Indriidae institutioncode:YPM" ; Times: 1
+	Query: "horses" ; Times: 1
+	Query: "specificepithet:rosalia genus:lemniscomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "specificepithet:undulatus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "Anomalurus" ; Times: 4
+	Query: "western squirrel" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 2
+	Query: "black bears" ; Times: 3
+	Query: "CARNIVORES" ; Times: 1
+	Query: "Mesoplodon mirus" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 6
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "specificepithet:coquereli genus:Propithecus" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "bobcat stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:rubra genus:Varecia" ; Times: 8
+	Query: "wild boar" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "specificepithet:fulvus genus:Eulemur institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:rubriventer genus:Eulemur institutioncode:YPM" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "genus:Ptilocercus" ; Times: 1
+	Query: "specificepithet:triton genus:mus country:&#34;kenya&#34; institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:diardi genus:neofelis" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "Seal Fur" ; Times: 1
+	Query: "genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 5
+	Query: "specificepithet:triton genus:mus country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "specificepithet:punctatus genus:heliosciurus institutioncode:YPM" ; Times: 1
+	Query: "Mountain Lion" ; Times: 2
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 25
+	Query: "afra (skeleton)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 115 (out of 1169 download events in this period)
+Total number of records downloaded: 3889
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 89
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 24
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 11
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-08 ; Times: 24
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "papio anubis" ; Times: 2
+	Query: "gray wolf" ; Times: 2
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "sloth" ; Times: 4
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "panda" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "koala" ; Times: 1
+	Query: "nilgai" ; Times: 5
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "grizzly bears" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "American Beaver" ; Times: 4
+	Query: "mountain beaver distance(location,geopoint(44.997090792612845,-116.41347624508126))&lt;775913" ; Times: 1
+	Query: "Morro bay kangaroo rat" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "snow leopard" ; Times: 3
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Neacomys spinosus" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "sloths" ; Times: 2
+	Query: "sugar glider" ; Times: 1
+	Query: "Mountain Lion" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+
+
+End of report.
