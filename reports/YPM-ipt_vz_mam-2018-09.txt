@@ -1,0 +1,310 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 319
+Number of records retrieved in searches: 1996
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 224
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 8
+	Country: Mexico ; Times: 21
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 34
+	Country: Unknown ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: India ; Times: 1
+	Country: Iceland ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 18
+	Date: 2018-09-23 ; Times: 10
+	Date: 2018-09-02 ; Times: 6
+	Date: 2018-09-03 ; Times: 21
+	Date: 2018-09-26 ; Times: 37
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-21 ; Times: 7
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-05 ; Times: 10
+	Date: 2018-09-08 ; Times: 8
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-28 ; Times: 4
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 8
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 6
+	Date: 2018-09-12 ; Times: 5
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 6
+	Date: 2018-09-17 ; Times: 6
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 31
+	Date: 2018-09-18 ; Times: 11
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 61
+	Date: 2018-09-27 ; Times: 7
+	Date: 2018-09-06 ; Times: 7
+	Date: 2018-09-07 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "star-nosed moles" ; Times: 1
+	Query: "raccoon skull" ; Times: 1
+	Query: "catalognumber:000444 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:parvidens genus:Ictidomys" ; Times: 2
+	Query: "cryptoprocta" ; Times: 2
+	Query: "genus:sigmodon county:&#34;Cochise&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(41.79661620239966,-73.51318359375))&lt;247840.770513055" ; Times: 1
+	Query: "specificepithet:yucatanensis genus:Sciurus" ; Times: 2
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;Eddy&#34;" ; Times: 1
+	Query: "order:Perissodactyla institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "country:Ecuador scientificname:Cuniculus taczanowskii " ; Times: 2
+	Query: "specificepithet:major genus:Spermophilus" ; Times: 2
+	Query: "genus:Parahyaena specificepithet:brunnea" ; Times: 1
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 1
+	Query: "genus:Mustela county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Cebus robustus" ; Times: 3
+	Query: "vntype:specimen order:Perissodactyla institutioncode:YPM" ; Times: 2
+	Query: "desmana moschata" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "genus:Moschus" ; Times: 1
+	Query: "specificepithet:pygerythrus genus:Callosciurus" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 2
+	Query: "Artibeus concolor" ; Times: 2
+	Query: "Trichechus inunguis" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "snow leopard" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 33
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "class:mammalia year &gt;= 2000 year &lt;= 2015 institutioncode:YPM" ; Times: 1
+	Query: "Otaria" ; Times: 1
+	Query: "glaucomys sabrinus oregonensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "Ursus arctos richardsoni" ; Times: 2
+	Query: "YPM 6325" ; Times: 1
+	Query: "class:Mammalia institutioncode:YPM" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 1
+	Query: "macroscelides skeleton" ; Times: 1
+	Query: "genus:Napaeozapus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "YPM 6323" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "specificepithet:leucodon genus:Nannospalax" ; Times: 2
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 2
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "vampire" ; Times: 7
+	Query: "specificepithet:lena genus:Petaurista" ; Times: 2
+	Query: "genus:Microperoryctes institutioncode:YPM" ; Times: 10
+	Query: "specificepithet:pigra genus:Alouatta order:primates country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:magnificus genus:Petaurista" ; Times: 2
+	Query: "genus:Zaedyus institutioncode:YPM" ; Times: 3
+	Query: "Pekania pennanti" ; Times: 4
+	Query: "family:Rhinocerotidae order:Perissodactyla institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "YPM 6327" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 2
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Equus hemionus onager" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cynomys" ; Times: 2
+	Query: "YPM 6328" ; Times: 2
+	Query: "genus:Macropus institutioncode:YPM" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "genus:mirza" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:umbrinus genus:Thomomys stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:Echinosorex institutioncode:YPM" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Hyaena" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "genus:Eulemur hastissue:1" ; Times: 1
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "Sumatran family:Rhinocerotidae institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cave bats mexico" ; Times: 1
+	Query: "genus:Rhinoceros preparations:Skeleton institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:philippensis genus:Petaurista" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "03246" ; Times: 1
+	Query: "panthera leo" ; Times: 15
+	Query: "family:Indriidae hastissue:1" ; Times: 1
+	Query: "procyon lotor massachusetts" ; Times: 3
+	Query: "perotensis" ; Times: 1
+	Query: "specificepithet:affinis genus:Ratufa" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "specificepithet:cyanus genus:Spalacopus" ; Times: 2
+	Query: "Armadillo" ; Times: 1
+	Query: "Glaucomys oregonensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 2
+	Query: "skunk skull" ; Times: 2
+	Query: "specificepithet:lutescens genus:Ellobius" ; Times: 2
+	Query: "southern flying squirrels" ; Times: 1
+	Query: "Mountain lion" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 8
+	Query: "tarsier" ; Times: 1
+	Query: "genus:Brachylagus institutioncode:YPM" ; Times: 2
+	Query: "class:Mammalia (baubellum)" ; Times: 4
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "genus:Euphractus institutioncode:YPM" ; Times: 5
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "country:Ecuador scientificname:Marmosa waterhousei " ; Times: 1
+	Query: "genus:Ptilocercus institutioncode:YPM" ; Times: 2
+	Query: "Anomalurus" ; Times: 3
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "coendou prehensilis" ; Times: 7
+	Query: "pekania pennanti" ; Times: 2
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 1
+	Query: "specificepithet:igniventris genus:Sciurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 1
+	Query: "country:Ecuador scientificname:Scolomys melanops " ; Times: 1
+	Query: "Pekania pennanti michigan" ; Times: 1
+	Query: "museum specimen coendou prehensilis" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "family:Chrysochloridae institutioncode:YPM" ; Times: 1
+	Query: "genus:Alouatta order:primates country:&#34;México&#34;" ; Times: 1
+	Query: "Alouatta villosa" ; Times: 1
+	Query: "specificepithet:derbianus genus:Anomalurus" ; Times: 8
+	Query: "tapir" ; Times: 1
+	Query: "specificepithet:anomalus genus:Sciurus" ; Times: 2
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae stateprovince:&#34;-&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(42.99732662287912,-72.19482421875))&lt;247840.770513055" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "genus:Microcebus hastissue:1" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "Rucervus eldii" ; Times: 1
+	Query: "diceros" ; Times: 1
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 2
+	Query: "genus:Cynocephalus institutioncode:YPM" ; Times: 5
+	Query: "order:Perissodactyla institutioncode:YPM" ; Times: 1
+	Query: "Philippine tarsier" ; Times: 7
+	Query: "specificepithet:microphthalmus genus:Spalax" ; Times: 2
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 846 download events in this period)
+Total number of records downloaded: 925
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 45
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 5
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-13 ; Times: 9
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 20
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-07 ; Times: 7
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-18 ; Times: 8
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "family:Indriidae hastissue:1" ; Times: 1
+	Query: "specificepithet:gnou genus:Connochaetes mappable:1" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Rucervus eldii" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "Mountain lion" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "specificepithet:penicillata genus:Cynictis mappable:1" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus mappable:1" ; Times: 1
+	Query: "Alouatta villosa" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "Pekania pennanti" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "specificepithet:ichneumon genus:Herpestes mappable:1" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos family:Procyonidae stateprovince:&#34;-&#34; country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera mappable:1" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rupicapra genus:Rupicapra mappable:1" ; Times: 1
+	Query: "genus:Macropus institutioncode:YPM" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis mappable:1" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+
+
+End of report.
