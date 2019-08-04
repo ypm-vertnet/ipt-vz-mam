@@ -1,0 +1,354 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 337
+Number of records retrieved in searches: 1895
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Pakistan ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 15
+	Country: India ; Times: 4
+	Country: Guatemala ; Times: 6
+	Country: United States ; Times: 269
+	Country: Austria ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 10
+	Date: 2019-07-18 ; Times: 12
+	Date: 2019-07-19 ; Times: 10
+	Date: 2019-07-08 ; Times: 42
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-13 ; Times: 7
+	Date: 2019-07-10 ; Times: 7
+	Date: 2019-07-11 ; Times: 5
+	Date: 2019-07-16 ; Times: 22
+	Date: 2019-07-17 ; Times: 16
+	Date: 2019-07-14 ; Times: 14
+	Date: 2019-07-15 ; Times: 18
+	Date: 2019-07-02 ; Times: 17
+	Date: 2019-07-03 ; Times: 8
+	Date: 2019-07-23 ; Times: 17
+	Date: 2019-07-22 ; Times: 10
+	Date: 2019-07-21 ; Times: 11
+	Date: 2019-07-20 ; Times: 9
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-26 ; Times: 6
+	Date: 2019-07-25 ; Times: 9
+	Date: 2019-07-24 ; Times: 10
+	Date: 2019-07-01 ; Times: 4
+	Date: 2019-07-30 ; Times: 6
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 4
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-04 ; Times: 15
+	Date: 2019-07-07 ; Times: 7
+	Date: 2019-07-06 ; Times: 19
+	Date: 2019-07-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:eremicus genus:Peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "giant anteater" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 4
+	Query: "specificepithet:catta genus:lemur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Eumops floridanus mappable:1" ; Times: 2
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "YPM 2255" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus taczanowskii " ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Parahyaena specificepithet:brunnea" ; Times: 1
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes ida " ; Times: 1
+	Query: "Island AND Blunt" ; Times: 1
+	Query: "genus:Poliocitellus specificepithet:franklinii" ; Times: 1
+	Query: "Felis pardalis mappable:1" ; Times: 3
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 1
+	Query: "genus:xerospermophilus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:antrozous order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ypm 2021" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Caracal caracal" ; Times: 4
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 2
+	Query: "genus:Redunca" ; Times: 1
+	Query: "coypu" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 1
+	Query: "Grison" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 6
+	Query: "YPM 13701" ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Poliocitellus franklinii mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 3
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 4
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Connecticut&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 5
+	Query: "order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "orthogeomys grandis guatemala" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 13
+	Query: "YPM-12004" ; Times: 1
+	Query: "YPM 000226" ; Times: 1
+	Query: "genus:Equus specificepithet:quagga" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "Scheffer AND Island" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "Caracal+caracal" ; Times: 3
+	Query: "genus:Avahi specificepithet:laniger" ; Times: 1
+	Query: "baubellum" ; Times: 3
+	Query: "&#34;didelphis virginiana&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "Culex" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "country:Ecuador scientificname:Cryptotis osgoodi " ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;nova scotia&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "cascadensis genus:vulpes stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Papio specificepithet:anubis" ; Times: 1
+	Query: "gruber california" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "6 KM VILLA VICTORIA" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "genus:Spalacopus specificepithet:cyanus" ; Times: 1
+	Query: "amorphochilus" ; Times: 1
+	Query: "genus:Otolemur specificepithet:crassicaudatus" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New Hampshire&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 3
+	Query: "vntype:specimen genus:caluromys preparations:skeleton" ; Times: 2
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "genus:Pekania specificepithet:pennanti" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries NOT Canada NOT Fish" ; Times: 1
+	Query: "Urocyon AND 1029" ; Times: 1
+	Query: "genus:reithrodontomys class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Okapia johnstoni hastissue:1" ; Times: 1
+	Query: "genus:Mirza specificepithet:coquereli" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries NOT Canada" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "potamogale" ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "order:Rodentia class:Mammalia country:&#34;Kenya&#34; continent:Africa hastissue:1" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:Daubentonia specificepithet:madagascariensis" ; Times: 1
+	Query: "Felis lynx canadensis mappable:1" ; Times: 1
+	Query: "genus:Mastomys order:Rodentia class:Mammalia continent:Africa hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa waterhousei " ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "genus:Neacomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 4
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "felis concolor" ; Times: 3
+	Query: "deer mice" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Pan specificepithet:paniscus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Dipus specificepithet:sagitta" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus" ; Times: 1
+	Query: "Laughrin AND Island" ; Times: 1
+	Query: "tamiasciurus hudsonicus massachusetts" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus class:mammalia county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology" ; Times: 1
+	Query: "Loxodonta hastissue:1" ; Times: 3
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 2
+	Query: "&#34;limnogale mergulus&#34;" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 4
+	Query: "genus:peromyscus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "lontra felina" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "sun bear" ; Times: 1
+	Query: "Helogale parvula tanzania" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "Felis lynx" ; Times: 3
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "Daubentonia" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 1
+	Query: "Gorillas" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "specificepithet:catta genus:lemur" ; Times: 1
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "specificepithet:maximus genus:Elephas" ; Times: 1
+	Query: "Helogale parvula" ; Times: 2
+	Query: "genus:thomomys class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:humeralis genus:Nycticeius county:&#34;hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:furinalis" ; Times: 1
+	Query: "genus:Otolemur specificepithet:garnettii" ; Times: 1
+	Query: "Felis lynx canadensis" ; Times: 3
+	Query: "Lonchophylla hesperia" ; Times: 4
+	Query: "genus:Allactaga specificepithet:major" ; Times: 1
+	Query: "body mass peromyscus" ; Times: 1
+	Query: "siamang" ; Times: 3
+	Query: "Laughrin AND Island AND Urocyon" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "American Mink" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 9
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Limnogale specificepithet:mergulus" ; Times: 1
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "bandicota bengalensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "recordedby:F. Gruber" ; Times: 1
+	Query: "genus:Pan specificepithet:troglodytes" ; Times: 1
+	Query: "flat tail rodents" ; Times: 1
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "giant anteater skeleton" ; Times: 2
+	Query: "Pan troglodytes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "Rucervus eldii" ; Times: 1
+	Query: "Laughrin" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "genus:vulpes stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 32
+	Query: "sylvilagus transitionalis connecticut" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 985 download events in this period)
+Total number of records downloaded: 979
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 37
+	Country: Peru ; Times: 10
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-20 ; Times: 4
+	Date: 2019-07-25 ; Times: 12
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-23 ; Times: 15
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "Lonchophylla hesperia" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "genus:Mastomys order:Rodentia class:Mammalia continent:Africa hastissue:1" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia class:Mammalia continent:Africa hastissue:1" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Nasua nasua brazil" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "bandicota bengalensis" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Lagidium peruanum" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "order:Rodentia continent:Africa hastissue:1" ; Times: 1
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
