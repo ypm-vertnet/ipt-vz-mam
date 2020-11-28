@@ -1,0 +1,314 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 329
+Number of records retrieved in searches: 1018
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 5
+	Country: Peru ; Times: 8
+	Country: United States ; Times: 227
+	Country: Malaysia ; Times: 18
+	Country: Sweden ; Times: 5
+	Country: Spain ; Times: 8
+	Country: Colombia ; Times: 2
+	Country: Sri Lanka ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Bolivia ; Times: 5
+	Country: Ecuador ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 22
+	Date: 2020-07-20 ; Times: 7
+	Date: 2020-07-27 ; Times: 19
+	Date: 2020-07-26 ; Times: 9
+	Date: 2020-07-25 ; Times: 13
+	Date: 2020-07-22 ; Times: 15
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-02 ; Times: 11
+	Date: 2020-07-05 ; Times: 3
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 5
+	Date: 2020-07-06 ; Times: 14
+	Date: 2020-07-24 ; Times: 21
+	Date: 2020-07-23 ; Times: 31
+	Date: 2020-07-29 ; Times: 7
+	Date: 2020-07-18 ; Times: 5
+	Date: 2020-07-19 ; Times: 17
+	Date: 2020-07-12 ; Times: 4
+	Date: 2020-07-13 ; Times: 11
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 8
+	Date: 2020-07-16 ; Times: 13
+	Date: 2020-07-31 ; Times: 7
+	Date: 2020-07-14 ; Times: 15
+	Date: 2020-07-17 ; Times: 19
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 16
+	Date: 2020-07-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "echimys" ; Times: 1
+	Query: "long tailed weasel" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 10
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Bassaricyon alleni" ; Times: 1
+	Query: "catalognumber:014733 institutioncode:YPM" ; Times: 2
+	Query: "catalognumber:014721 institutioncode:YPM" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 5
+	Query: "okapia" ; Times: 1
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 2
+	Query: "country:Ecuador scientificname:Cyclopes ida " ; Times: 7
+	Query: "Artemisia" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 8
+	Query: "Dama dama" ; Times: 2
+	Query: "Ratufa bicolor" ; Times: 2
+	Query: "genus:Rattus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "Kiasakubara" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:014725 institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 5
+	Query: "Ptilocercus lowii" ; Times: 1
+	Query: "dentition" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 2
+	Query: "Dactylomys" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 5
+	Query: "ptilocercus lowii" ; Times: 5
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 5
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "country:Ecuador scientificname:Myoprocta pratti " ; Times: 1
+	Query: "silver haired bat" ; Times: 3
+	Query: "Sundasciurus tenuis" ; Times: 10
+	Query: "genus:Ochotona year &gt;= 2006 year &lt;= 2020 institutioncode:YPM" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 5
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "country:Ecuador scientificname:Cryptotis osgoodi " ; Times: 2
+	Query: "Masayuki Ono 1952" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 5
+	Query: "Capricornis" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 1
+	Query: "Cephalopachus bancanus" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tupaia tana" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 7
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+	Query: "bat genus:Lasionycteris year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus taczanowskii " ; Times: 3
+	Query: "specificepithet:beecheyi genus:otospermophilus county:&#34;riverside&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 10
+	Query: "stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34; (cave)" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 7
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "000194" ; Times: 1
+	Query: "dactylomys" ; Times: 5
+	Query: "pentalagus" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosa waterhousei " ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "genus:Conepatus institutioncode:YPM" ; Times: 2
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "spotted skunk" ; Times: 2
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 3
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "stateprovince:&#34;Jalisco&#34; country:&#34;México&#34; (cave)" ; Times: 1
+	Query: "new hampshire septentrionalis" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 5
+	Query: "Viverra tangalunga" ; Times: 1
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "catalognumber:014716 institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 3
+	Query: "dama mesopotamica" ; Times: 3
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 5
+	Query: "promops nasutus" ; Times: 3
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "Regulus regulus india" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 6
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;New York&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 2
+	Query: "scan" ; Times: 2
+	Query: "genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Bos frontalis" ; Times: 1
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 3
+	Query: "16350" ; Times: 1
+	Query: "Cayenne guiana" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 12
+	Query: "country:Ecuador scientificname:Scolomys melanops " ; Times: 1
+	Query: "lontra canadensis pacifica" ; Times: 3
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "catalognumber:014715 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "makalata" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Carlito syrichta" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Microcebus rufus" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 3
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "culex" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 3
+	Query: "genus:microtus county:&#34;Oneida&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "genus:Oligoryzomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 1
+	Query: "catalognumber:014713 institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "Erythrocebus" ; Times: 3
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 940 download events in this period)
+Total number of records downloaded: 4149
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: India ; Times: 3
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 26
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 11
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-28 ; Times: 5
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "echimys" ; Times: 1
+	Query: "genus:Conepatus institutioncode:YPM" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Bos frontalis" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "dactylomys" ; Times: 2
+	Query: "eira barbara" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Ochotona year &gt;= 2006 year &lt;= 2020 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "spotted skunk" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Bassaricyon alleni" ; Times: 1
+	Query: "new hampshire septentrionalis" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+	Query: "RABOR YPM" ; Times: 2
+	Query: "Echinosorex" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "promops nasutus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
