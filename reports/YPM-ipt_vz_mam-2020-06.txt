@@ -1,0 +1,200 @@
+Report for Institution Code YPM, Resource ipt_vz_mam
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 244
+Number of records retrieved in searches: 987
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 155
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 16
+	Country: United Kingdom ; Times: 41
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 3
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-15 ; Times: 5
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-17 ; Times: 29
+	Date: 2020-06-16 ; Times: 18
+	Date: 2020-06-11 ; Times: 17
+	Date: 2020-06-10 ; Times: 20
+	Date: 2020-06-13 ; Times: 11
+	Date: 2020-06-12 ; Times: 12
+	Date: 2020-06-26 ; Times: 3
+	Date: 2020-06-27 ; Times: 4
+	Date: 2020-06-28 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-20 ; Times: 3
+	Date: 2020-06-21 ; Times: 2
+	Date: 2020-06-22 ; Times: 2
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-08 ; Times: 37
+	Date: 2020-06-09 ; Times: 10
+	Date: 2020-06-06 ; Times: 10
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-04 ; Times: 15
+	Date: 2020-06-05 ; Times: 14
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 4
+	Query: "martes flavigula" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen county:&#34;berkshire&#34; stateprovince:&#34;massachusetts&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "coendou" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "gaur" ; Times: 1
+	Query: "YPM ochotona sargis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "Dactylomys" ; Times: 20
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 5
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 5
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 1
+	Query: "genus:niviventer specificepithet:fulvescens" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34; (neovison vison)" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; (neovison vison)" ; Times: 1
+	Query: "&#34;peromyscus gambelii&#34;" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 4
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis osgoodi " ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "Pipistrellus hesperus texas" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis) institutioncode: YPM" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "genus:paguma" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Red panda" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "bos gaurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "grey squirrel" ; Times: 2
+	Query: "stateprovince:&#34;Rhode Island&#34; (neovison vison)" ; Times: 2
+	Query: "Bos taurus" ; Times: 6
+	Query: "country:Ecuador scientificname:Cyclopes ida " ; Times: 4
+	Query: "Lasiurus borealis country:&#34;USA&#34; (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 12
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 5
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 3
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "mustela asia" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 2
+	Query: "three toed sloth" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 2
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis)" ; Times: 11
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 4
+	Query: "RT 318" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "genus:hydromys country:indonesia" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 474 download events in this period)
+Total number of records downloaded: 1623
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 3
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 10
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "grey squirrel" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "three toed sloth" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
